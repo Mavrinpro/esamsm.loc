@@ -1,5 +1,19 @@
+@font-face{
+    font-family: 'Gilroy Light'; /* Название шрифта */
+    src: url(/fonts/Gilroy-Regular.ttf); /* Путь до файла шрифтов */
+}
+
+@font-face{
+    font-family: 'Gilroy Bold'; /* Название шрифта */
+    src: url(/fonts/Gilroy-Bold.ttf); /* Путь до файла шрифтов */
+}
+
 body{
     background-image: url("/img/bg991.png");
+    font-family: "Gilroy Light";
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: "Gilroy Bold";
 }
 
 .bg-wrapper {
