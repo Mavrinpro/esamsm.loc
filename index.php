@@ -42,7 +42,7 @@
                 <div class="col-md-6">
                     <h1>Шредирование и полное уничтожение документов</h1>
                     <span class="sub-text mt-5">Наши специалисты занимаются созданием электронного архива для
-                        предприятий любой величины.TEST TEST</span>
+                        предприятий любой величины.</span>
                 </div>
                 <div class="col-md-6">
                     <img src="/img/shredder.png" alt="шреддер" class="img-fluid">
