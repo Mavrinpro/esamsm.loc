@@ -33,3 +33,29 @@ span.sub-text {
     line-height: 1.5;
     margin-bottom: 32px;
 }
+h1, h2 {
+    font-size: 45px;
+    line-height: 1.1;
+}
+.br-50{
+    border-radius: 50px;
+}
+p, li{
+
+
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 5px;
+    line-height: 1.71;
+
+}
+
+.form {
+    background-color: #edf0fc;
+    padding: 40px 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
