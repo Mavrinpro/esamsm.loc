@@ -65,3 +65,55 @@ p, li{
     margin-bottom: 30px;
     text-align: center;
 }
+.twoblocks{
+    z-index: 1;
+}
+.twoblocks .title {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 34px;
+    max-width: 430px;
+    display: block;
+}
+
+.twoblocks .sub-text {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 24px;
+}
+.twoblocks_after:after{
+    content: '';
+    position: absolute;
+    right: 0px;
+    bottom: -50px;
+    background-image: url('/img/dots-gray.png');
+    background-repeat: no-repeat;
+    width: 296px;
+    height: 296px;
+    z-index: -1;
+}
+.twoblocks_after:before {
+    content: '';
+    position: absolute;
+    left: -45px;
+    bottom: -55px;
+    background-image: url('/img/curve-blue-1.svg');
+    width: 263px;
+    height: 312px;
+    z-index: -1;
+    background-size: 100%;
+}
+.bg_dark_blue{
+    background-color: #312369;
+}
+.bg_dark_blue a{
+    color: #ffffff;
+    text-decoration: none;
+    line-height: 1.1;
+}
+.twoblocks .bg-white a{
+    color: #000000;
+    text-decoration: none;
+    line-height: 1.1;
+
+}

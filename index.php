@@ -87,7 +87,7 @@
                 <h3>Итоги своевременного уничтожения</h3>
                 <p>Сокращается физический объем документов, что позволяет высвободить площади. Звоните нам по телефону:
                     8 (495) 227-04-94 или пишите на info@archiv-s.ru мы поможем уничтожить документы правильно.</p>
-                <form class="form" id="recl2903" method="POST">
+                <form class="form mt-5" id="recl2903" method="POST" >
                     <p class="title text-center">Оставить заявку на консультацию</p>
                     <div class="d-flex justify-content-center flex-column flex-md-row">
                         <div class="form-group mr-md-3">
@@ -105,6 +105,24 @@
                     </div>
                     <div id="recl2903res"></div>
                 </form>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="twoblocks mt-5">
+    <div class="container">
+        <div class="row position-relative twoblocks_after">
+            <div class="col-md-6">
+                <div class="block rounded shadow p-3 bg_dark_blue text-light">
+                    <a href="/uslugi/" class="title">Архивные услуги и обработка документов</a>
+                    <span class="sub-text">Архивная обработка документов представляет собой основной этап построения структуры архива.</span>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="block rounded shadow p-3 bg-white">
+                    <a href="/uslugi/" class="title">Перевод документов в электронный вид</a>
+                    <span class="sub-text">Архивная обработка документов представляет собой основной этап построения структуры архива.</span>
+                </div>
             </div>
         </div>
     </div>
