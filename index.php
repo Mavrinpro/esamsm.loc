@@ -14,7 +14,7 @@
 <body>
 <div class="bg-wrapper">
     <section>
-        <nav class="navbar navbar-expand-lg navbar-light bg_transparent pt-3 pb-3">
+        <nav class="navbar navbar-expand-lg navbar-light bg_transparent pt-3 pb-3 ">
             <div class="container">
                 <a class="navbar-brand" href="#"><img src="/img/logo.png" alt="logo" width="80"></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
